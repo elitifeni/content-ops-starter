@@ -8,9 +8,8 @@ sections:
       text: Social Media Management
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      ![](/images/istockphoto-1465760198-612x612.jpg)
     actions: []
     media:
       type: ImageBlock
