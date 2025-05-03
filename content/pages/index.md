@@ -742,7 +742,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: e-Learning IT Institute
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
