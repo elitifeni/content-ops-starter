@@ -8,7 +8,8 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: ''
+    text: |
+      ![](/images/yw.png)
     actions:
       - type: Button
         label: Get started
