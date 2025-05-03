@@ -30,7 +30,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 50
+      opacity: 83
       url: /images/istockphoto-1465760198-612x612.jpg
     badge:
       type: Badge
