@@ -3,10 +3,6 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
     subtitle: ''
     text: |
       ![](/images/yw.png)
