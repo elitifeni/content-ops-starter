@@ -25,7 +25,7 @@ sections:
       url: /images/istockphoto-1465760198-612x612.jpg
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Our Couse
       color: text-dark
       styles:
         self:
