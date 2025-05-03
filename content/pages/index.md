@@ -743,7 +743,6 @@ sections:
 seo:
   metaTitle: e-Learning IT Institute
   metaDescription: ''
-  socialImage: /images/main-hero.jpg
   type: Seo
   addTitleSuffix: true
   metaTags: []
