@@ -31,7 +31,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: আমাদের কোর্স সমূহ ঃ
+    subtitle: আমাদের কোর্স সমূহ
     items:
       - type: FeaturedItem
         title: 500k
