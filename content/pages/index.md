@@ -29,8 +29,13 @@ sections:
       altText: altText of the image
       backgroundSize: auto
       backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
+      backgroundRepeat: repeat-x
+      opacity: 30
+      url: /images/istockphoto-1465760198-612x612.jpg
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
