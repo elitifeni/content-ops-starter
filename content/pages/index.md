@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: প্রযুক্তিতে দক্ষ জনবল তৈরীতে আমরা
+      text: ''
       color: text-dark
     subtitle: ''
     text: ''
