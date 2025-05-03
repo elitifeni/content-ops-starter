@@ -34,7 +34,7 @@ sections:
     subtitle: আমাদের কোর্স সমূহ
     plans:
       - type: PricingPlan
-        title: ''
+        title: মাইক্রোসফট অফিস
         price: Free
         details: No credit card required
         description: >-
