@@ -2,37 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: প্রযুক্তিতে দক্ষ জনবল তৈরীতে আমরা প্রতিজ্ঞাবদ্ধ
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/istockphoto-1465760198-612x612.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
