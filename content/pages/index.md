@@ -29,7 +29,7 @@ sections:
       altText: altText of the image
       backgroundSize: auto
       backgroundPosition: center
-      backgroundRepeat: repeat-y
+      backgroundRepeat: repeat-x
       opacity: 100
       url: /images/istockphoto-1465760198-612x612.jpg
     badge:
