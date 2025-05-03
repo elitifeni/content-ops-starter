@@ -31,7 +31,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 38
       url: /images/istockphoto-1465760198-612x612.jpg
   - type: FeaturedItemsSection
     title:
