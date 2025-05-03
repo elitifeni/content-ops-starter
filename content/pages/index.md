@@ -43,7 +43,7 @@ sections:
           - "\U0001F534 ক্লাসঃ সপ্তাহে ৩/৬ দিন"
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/ms-office.png
           altText: Pricing plan 1
         actions:
           - type: Button
