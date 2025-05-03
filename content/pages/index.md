@@ -31,7 +31,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: আমাদের কোর্স সমূহ
     plans:
       - type: PricingPlan
         title: Developers
