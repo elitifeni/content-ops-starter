@@ -26,7 +26,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: ''
+      text: Couses
       color: text-dark
       styles:
         self:
