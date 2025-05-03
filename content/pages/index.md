@@ -65,7 +65,7 @@ sections:
       - type: PricingPlan
         title: গ্রাফিক্স ডিজাইন
         price: '4000'
-        details: per month
+        details: Full Couse
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
