@@ -40,7 +40,7 @@
         {
             "type": "Button",
             "label": "Team",
-            "altText": "",
+            "altText": "Team",
             "url": "/",
             "showIcon": false,
             "icon": "arrowRight",
