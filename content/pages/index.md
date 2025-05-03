@@ -34,7 +34,7 @@ sections:
       url: /images/istockphoto-1465760198-612x612.jpg
     badge:
       type: Badge
-      label: This is a badge
+      label: ''
       color: text-primary
   - type: FeaturedItemsSection
     title:
