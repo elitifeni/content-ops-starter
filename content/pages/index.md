@@ -35,7 +35,7 @@ sections:
     plans:
       - type: PricingPlan
         title: মাইক্রোসফট অফিস
-        price: Free
+        price: '2500'
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
