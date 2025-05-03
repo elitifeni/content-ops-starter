@@ -37,9 +37,7 @@ sections:
         title: মাইক্রোসফট অফিস
         price: '2500'
         details: Full Couse
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: "\U0001F7E1\U0001F534 আমাদের এডভান্সড অফিসপ্রোগ্রামের কোর্সে যা যাথাকছে\n\n\U0001F449 Fundamental of Computer\n\n\U0001F449 English Typing\n\n\U0001F449 Bangla Typing\n\n\U0001F449 Microsoft Word\n\n\U0001F449 Microsoft Excel \n\n\U0001F449 Microsoft PowerPoint\n\n\U0001F449 Microsoft Access\n\n\U0001F449 Basic Internet\n\n\U0001F449 Career & Freelance guideline Master Class\n\n\n\n\n\n\n\n"
         features:
           - Feature one
           - Feature two
