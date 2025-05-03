@@ -66,9 +66,13 @@ sections:
         title: গ্রাফিক্স ডিজাইন
         price: '4000'
         details: Full Couse
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |+
+          *   Adobe Photoshop cc
+
+          *   Adobe Illustrator cc
+
+
+
         features:
           - Feature one
           - Feature two
