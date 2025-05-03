@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: প্রযুক্তিতে দক্ষতা
       color: text-dark
     subtitle: ''
     text: ''
