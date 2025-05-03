@@ -32,10 +32,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/istockphoto-1465760198-612x612.jpg
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
