@@ -720,6 +720,7 @@ seo:
   metaDescription: ''
   type: Seo
   addTitleSuffix: true
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
