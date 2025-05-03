@@ -64,7 +64,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: গ্রাফিক্স ডিজাইন
-        price: $99
+        price: '4000'
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
