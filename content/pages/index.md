@@ -2,27 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: প্রযুক্তিতে দক্ষতা
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/Untitled-1.png
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        justifyContent: center
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
