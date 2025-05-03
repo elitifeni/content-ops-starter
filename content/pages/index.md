@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Social Media Management
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: প্রযুক্তিতে দক্ষ জনবল তৈরীতে আমরা প্রতিজ্ঞাবদ্ধ
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
