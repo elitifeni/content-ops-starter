@@ -39,7 +39,7 @@
         },
         {
             "type": "Button",
-            "label": "",
+            "label": "Team",
             "altText": "",
             "url": "/",
             "showIcon": false,
