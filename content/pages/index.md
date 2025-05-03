@@ -20,7 +20,7 @@ sections:
       type: ImageBlock
       url: /images/Untitled-1.png
       altText: Fun feature preview
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
