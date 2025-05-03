@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: প্রযুক্তিতে দক্ষ জনবল তৈরীতে আমরা প্রতিজ্ঞাবদ্ধ
       color: text-dark
-    subtitle: প্রযুক্তিতে দক্ষ জনবল তৈরীতে আমরা প্রতিজ্ঞাবদ্ধ
+    subtitle: ''
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
