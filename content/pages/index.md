@@ -40,7 +40,7 @@ sections:
         description: "**\U0001F7E1\U0001F534 আমাদের এডভান্সড অফিসপ্রোগ্রামের কোর্সে যা যা থাকছে**\n\n*   \U0001F449 Fundamental of Computer\n\n*   \U0001F449 English Typing\n\n*   \U0001F449 Bangla Typing\n\n*   \U0001F449 Microsoft Word\n\n*   \U0001F449 Microsoft Excel\n\n*   \U0001F449 Microsoft PowerPoint\n\n*   \U0001F449 Microsoft Access\n\n*   \U0001F449 Basic Internet\n\n*   \U0001F449 Career & Freelance guideline Master Class\n\n"
         features:
           - "\U0001F534 কোর্স সময়ঃ ৩-৪ মাস \U0001F4C5"
-          - Feature three
+          - "\U0001F534 ক্লাসঃ সপ্তাহে ৩/৬ দিন"
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
