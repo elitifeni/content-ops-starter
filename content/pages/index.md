@@ -36,7 +36,7 @@ sections:
       - type: PricingPlan
         title: মাইক্রোসফট অফিস
         price: '2500'
-        details: No credit card required
+        details: Full Couse
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
