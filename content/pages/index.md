@@ -39,7 +39,7 @@ sections:
         details: Full Couse
         description: "**\U0001F7E1\U0001F534 আমাদের এডভান্সড অফিসপ্রোগ্রামের কোর্সে যা যা থাকছে**\n\n*   \U0001F449 Fundamental of Computer\n\n*   \U0001F449 English Typing\n\n*   \U0001F449 Bangla Typing\n\n*   \U0001F449 Microsoft Word\n\n*   \U0001F449 Microsoft Excel\n\n*   \U0001F449 Microsoft PowerPoint\n\n*   \U0001F449 Microsoft Access\n\n*   \U0001F449 Basic Internet\n\n*   \U0001F449 Career & Freelance guideline Master Class\n\n"
         features:
-          - Feature two
+          - সপ্ত
           - Feature three
         image:
           type: ImageBlock
