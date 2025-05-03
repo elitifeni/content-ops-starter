@@ -31,6 +31,10 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
