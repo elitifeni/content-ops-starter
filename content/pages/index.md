@@ -76,7 +76,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/klipartz.com.png
           altText: Pricing plan 2
         actions:
           - type: Button
