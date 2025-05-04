@@ -140,7 +140,7 @@ sections:
           - pt-1
       subtitle:
         textAlign: center
-  - subtitle: Clients
+  - subtitle: Clients (আমাদের সহযোগী প্রতিষ্ঠান)
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
