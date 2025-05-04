@@ -146,7 +146,7 @@ sections:
         altText: Empathy logo
         type: ImageBlock
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/Untitled-2.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
