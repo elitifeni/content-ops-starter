@@ -147,7 +147,7 @@ sections:
         type: ImageBlock
       - type: ImageBlock
         url: /images/h.png
-        altText: Image alt text placeholder
+        altText: Hello Call
         elementId: ''
         styles:
           self:
