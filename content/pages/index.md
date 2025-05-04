@@ -145,9 +145,6 @@ sections:
       - url: /images/Untitled-2.png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
         type: ImageBlock
