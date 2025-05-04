@@ -15,6 +15,7 @@ sections:
     styles:
       self:
         alignItems: center
+        justifyContent: center
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
