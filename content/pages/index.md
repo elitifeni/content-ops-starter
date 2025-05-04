@@ -167,7 +167,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        justifyContent: flex-end
+        justifyContent: center
         padding:
           - pt-1
       subtitle:
