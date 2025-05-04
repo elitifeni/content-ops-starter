@@ -145,9 +145,6 @@ sections:
       - url: /images/Untitled-2.png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
