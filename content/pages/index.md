@@ -142,7 +142,7 @@ sections:
         textAlign: center
   - subtitle: Clients (আমাদের সহযোগী প্রতিষ্ঠান)
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/Logo.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
