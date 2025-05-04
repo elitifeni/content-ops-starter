@@ -133,6 +133,8 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pt-1
       subtitle:
         textAlign: center
   - subtitle: Award winning enterprises trust us
