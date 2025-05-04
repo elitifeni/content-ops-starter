@@ -140,7 +140,7 @@ sections:
           - pt-1
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Clients
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
