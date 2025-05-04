@@ -174,7 +174,7 @@ sections:
     title:
       type: TitleBlock
       text: Clients
-      color: text-neutral
+      color: text-primary
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
