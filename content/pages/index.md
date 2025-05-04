@@ -18,7 +18,7 @@ sections:
         justifyContent: center
         padding:
           - pt-1
-          - pb-1
+          - pb-0
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
