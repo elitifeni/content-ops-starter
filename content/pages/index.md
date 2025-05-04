@@ -68,7 +68,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: গ্রাফিক্স ডিজাইন
-        price: '4000'
+        price: ৪০০০
         details: Full Couse
         description: |+
           *   Adobe Photoshop cc
